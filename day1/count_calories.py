@@ -1,6 +1,6 @@
 
 
-ELVES_FILE_PATH = "C:/Users/ALangley/Desktop/Firmware/Stuff/Advent/Day 1/input.txt"
+ELVES_FILE_PATH = "z:/home/alangley/Sandbox/Advent/day1/input.txt"
 elves = open(ELVES_FILE_PATH, 'r')
 
 lines = elves.readlines()

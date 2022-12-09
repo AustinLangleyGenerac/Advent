@@ -1,5 +1,5 @@
 
-FILE_PATH = "z:/home/alangley/advent/day2/input.txt"
+FILE_PATH = "z:/home/alangley/Sandbox/Advent/day2/input.txt"
 f = open(FILE_PATH, 'r')
 
 lines = f.readlines()
